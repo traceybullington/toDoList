@@ -15,7 +15,7 @@ struct ContentView: View {
                 Text("to do list")
                     .font(.system(size: 40))
                     .fontWeight(.black)
-                    .foregroundColor(Color(hue: 0.842, saturation: 1.0, brightness: 0.641))
+                    .foregroundColor(Color(hue: 0.843, saturation: 1.0, brightness: 0.641))
                 Spacer()
                 Button {
                     withAnimation {
